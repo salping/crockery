@@ -3,7 +3,7 @@
 	"id": "crockery",
 	"version": "${version}",
 	"name": "Crockery",
-	"description": "a simple mod that adds some useful recipes to vanilla minecraft",
+	"description": "A simple mod that adds some useful recipes to vanilla minecraft",
 	"authors": [
 		"rustac3an"
 	],
@@ -11,7 +11,7 @@
 		"homepage": "https://github.com/indideee/crockery",
 		"sources": "https://github.com/indideee/crockery"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/crockery/icon.png",
 	"environment": "*",
 	"entrypoints": {
