@@ -5,11 +5,11 @@
 	"name": "Crockery",
 	"description": "A simple mod that adds some useful recipes to vanilla minecraft",
 	"authors": [
-		"rustac3an"
+		"salping"
 	],
 	"contact": {
-		"homepage": "https://github.com/indideee/crockery",
-		"sources": "https://github.com/indideee/crockery"
+		"homepage": "https://github.com/salping/crockery",
+		"sources": "https://github.com/salping/crockery"
 	},
 	"license": "MIT",
 	"icon": "assets/crockery/icon.png",
